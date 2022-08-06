@@ -21,11 +21,11 @@ Aplikasi ini dirancang untuk memudahkan para pengajar di program VSGA dalam meng
 ### B. Kebutuhan Non-Fungsional
 - Ketika pengguna belum memasukan salah satu nilai, maka sistem akan menolak pengolahan data. Pengolahan data membutuhkan keseluruhan nilai agar sistem bisa ter eksekusi.
 
-## Spesifikasi Kebutuhan Sistem
+## C. Spesifikasi Kebutuhan Sistem
 - Perangkat Lunak front-end : HTML dan CSS.
 - Perangkat Lunak back-end : PHP.
 
-## Spesifikasi Kebutuhan Sistem
+## D. Antarmuka perangkat keras (Hardware interface)
 - Komputer atau ponsel cerdas dengan browser yang sudah terinstal di dalamnya.
 
 ## Rencana Pengembangan Sistem
